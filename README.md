@@ -47,6 +47,6 @@
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
       <a href="*"><img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> </a>
       <a href="*"><img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white"/> </a>
-      <a href="*"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=aws&logoColor=white"/> </a>
+      <a href="*"><img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> </a>
     </div>
 </div>
