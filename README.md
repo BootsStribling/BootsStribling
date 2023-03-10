@@ -1,6 +1,6 @@
 <div align="left">
   <img align="center" src="https://i.imgur.com/4R3eGgs.jpg">
-  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bootsstribling&hide=issues,stars&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange" />  </a>
+  <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bootsstribling&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bootsstribling&layout=compact&theme=slateorange" /></a> 
   <hr>
   <h2>A little about me:</h2>
