@@ -11,7 +11,7 @@
     <a href="https://www.boots-stribling.com"><img src="https://img.shields.io/badge/-Personal_Website-FF6C37?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/boots-stribling/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/bootsstribling"><img src="https://img.shields.io/github/followers/bootsstribling?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
-    <a href="mailto: boots.stribling@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
+    <a href="mailto: boots.stribling@proton.me"><img src="https://img.shields.io/badge/protonmail" />  </a>
   </div>
   <hr>
   <div>
