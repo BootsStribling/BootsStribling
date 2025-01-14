@@ -1,4 +1,4 @@
-e<div align="left">
+<div align="left">
   <img align="center" src="https://i.imgur.com/4R3eGgs.jpg">
   <a href="#"><img align="left" src="https://github-readme-stats.vercel.app/api?username=bootsstribling&hide=issues&include_all_commits=true&count_private=true&show_icons=true&theme=slateorange" />  </a>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bootsstribling&layout=compact&theme=slateorange" /></a> 
@@ -8,7 +8,6 @@ e<div align="left">
   <hr>
   <div>
     <h3>Reach out:</h3>
-    <a href="https://www.boots-stribling.com"><img src="https://img.shields.io/badge/-Personal_Website-FF6C37?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/boots-stribling/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/bootsstribling"><img src="https://img.shields.io/github/followers/bootsstribling?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: boots.stribling@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail?logo=protonmail&logoColor=white&style=flat-square" />  </a>
